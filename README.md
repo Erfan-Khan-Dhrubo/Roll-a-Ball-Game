@@ -31,14 +31,8 @@ This project was created as part of a learning journey to:
 
 ---
 
-## Getting Started
 
-### Prerequisites
-
-- Unity Editor (version X.X.X or higher).
-- Basic knowledge of Unity and C#.
-
-### Installation
+## Installation
 
 1. Clone this repository:
    ```bash
