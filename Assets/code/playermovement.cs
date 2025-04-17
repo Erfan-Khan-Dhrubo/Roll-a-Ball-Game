@@ -22,7 +22,7 @@ public class playermovement : MonoBehaviour
         winText.text = "";
     }
 
-    // Update is called once per frame
+    
     void FixedUpdate()
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
@@ -31,6 +31,8 @@ public class playermovement : MonoBehaviour
         _rb.AddForce(movement * speed);
     }
 
+    
+    //This function activated when the ball triggered any box 
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("pickup"))
