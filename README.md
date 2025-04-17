@@ -42,7 +42,7 @@ This project was created as part of a learning journey to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/Roll-a-Ball.git
+   git clone https://github.com/Erfan-Khan-Dhrubo/Roll-a-Ball-Game.git
    ```
 2. Open the project folder in Unity Editor.
 3. Play the scene to experience the game.
